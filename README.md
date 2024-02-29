@@ -4,7 +4,7 @@ Independent vs. Dependent Variables
 ![image](https://github.com/Xnrrrrrr/1.0-Var-Types-and-Data/assets/133546385/427f1b6b-eb35-4cf1-a495-54d259473943)
 
 
-Typically before we run any inferential analysis we have a research question or hypothesis that we are trying to test. Examples of such research questions within the context of SRA may include:
+Typically before we run any inferential analysis we have a research question or hypothesis that we are trying to test. Examples of such research questions within the context of Security may include:
 
 Is there a relationship between the number of people affected in a cyber attack and the financial loss incurred by an organization?
 Does the type of cyber attack used have an impact on the number of records breached?
